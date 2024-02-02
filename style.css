@@ -28,7 +28,7 @@ body{
     font-size:40px;
     letter-spacing: 2px;
     border-radius :10px;
-    box-shadow: 0px 10px 15px 5px rgba(0,0,0.5,0.6);
+    box-shadow: 0px 10px 15px 5px rgba(0,0,0.2,0.4);
     /* border:1px solid #f5f5f5; */
     color:#b7ada1;
     font-family:"Barlow",sans-serif;
